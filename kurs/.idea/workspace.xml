@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="632c2bc6-de3f-456a-98d2-f505c5d568d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Kurs" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zr6g5iLbmQKOyMh7z863L52nVG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FirstTest.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kurs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="demoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest.demoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632c2bc6-de3f-456a-98d2-f505c5d568d0" name="Default Changelist" comment="" />
+      <created>1585584973843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585584973843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="52" key="#Notifications" timestamp="1585585067476">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="240" y="52" key="#Notifications/0.23.1280.724@0.23.1280.724" timestamp="1585585067476" />
+    <state x="240" y="52" key="#Project_Structure" timestamp="1585585248313">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="240" y="52" key="#Project_Structure/0.23.1280.724@0.23.1280.724" timestamp="1585585248313" />
+    <state width="1238" height="130" key="GridCell.Tab.0.bottom" timestamp="1585768973683">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1238" height="130" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585681020365" />
+    <state width="1238" height="130" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1585768973683" />
+    <state width="1238" height="130" key="GridCell.Tab.0.center" timestamp="1585768973682">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1238" height="130" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585681020364" />
+    <state width="1238" height="130" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1585768973682" />
+    <state width="1238" height="130" key="GridCell.Tab.0.left" timestamp="1585768973681">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1238" height="130" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585681020363" />
+    <state width="1238" height="130" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1585768973681" />
+    <state width="1238" height="130" key="GridCell.Tab.0.right" timestamp="1585768973682">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="1238" height="130" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585681020364" />
+    <state width="1238" height="130" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1585768973682" />
+    <state x="107" y="23" key="SettingsEditor" timestamp="1585679781931">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="107" y="23" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1585679781931" />
+    <state x="294" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1585679860273">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="294" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1585679860273" />
+    <state x="305" y="172" key="run.anything.popup" timestamp="1585681527065">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="305" y="172" key="run.anything.popup/0.23.1280.724@0.23.1280.724" timestamp="1585681527065" />
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup" timestamp="1585681533779">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="305" y="71" width="670" height="676" key="search.everywhere.popup/0.23.1280.724@0.23.1280.724" timestamp="1585681533779" />
+  </component>
+</project>
