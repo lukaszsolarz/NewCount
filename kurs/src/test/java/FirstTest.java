@@ -9,6 +9,7 @@ public class FirstTest {
         System.setProperty("webdriver.chrome.driver","src/main/resources/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.navigate().to("https://google.com");
+        driver.close();
 
     }
 
