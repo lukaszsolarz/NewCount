@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="632c2bc6-de3f-456a-98d2-f505c5d568d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +42,56 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
-  <component name="RunManager">
-    <configuration name="FirstTest.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Base.Wyszukiwanie">
+    <configuration name="Base" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kurs" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base.Injtialize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kurs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
+      <option name="METHOD_NAME" value="Injtialize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base.OpenStartPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kurs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
+      <option name="METHOD_NAME" value="OpenStartPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base.Wyszukiwanie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kurs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
+      <option name="METHOD_NAME" value="Wyszukiwanie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kurs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Base" />
       <option name="METHOD_NAME" value="demoTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -56,7 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FirstTest.demoTest" />
+        <item itemvalue="JUnit.Base.Wyszukiwanie" />
+        <item itemvalue="JUnit.Base.OpenStartPage" />
+        <item itemvalue="JUnit.Base" />
+        <item itemvalue="JUnit.Base.Injtialize" />
+        <item itemvalue="JUnit.Base.demoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -78,30 +126,71 @@
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="240" y="52" key="#Notifications/0.23.1280.724@0.23.1280.724" timestamp="1585585067476" />
-    <state x="240" y="52" key="#Project_Structure" timestamp="1585585248313">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="240" y="32" key="#Project_Structure" timestamp="1586711524334">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="240" y="32" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1586711524334" />
     <state x="240" y="52" key="#Project_Structure/0.23.1280.724@0.23.1280.724" timestamp="1585585248313" />
-    <state width="1238" height="130" key="GridCell.Tab.0.bottom" timestamp="1585768973683">
-      <screen x="0" y="23" width="1920" height="986" />
+    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1586376111806">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="453" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1586376111806" />
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586373590056">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1586373590056" />
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom" timestamp="1586729224031">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586729224031" />
     <state width="1238" height="130" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1585681020365" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1586624482795" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1586712627551" />
     <state width="1238" height="130" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1585768973683" />
-    <state width="1238" height="130" key="GridCell.Tab.0.center" timestamp="1585768973682">
-      <screen x="0" y="23" width="1920" height="986" />
+    <state width="1238" height="148" key="GridCell.Tab.0.center" timestamp="1586729224029">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586729224029" />
     <state width="1238" height="130" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1585681020364" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1586624482791" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1586712627549" />
     <state width="1238" height="130" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1585768973682" />
-    <state width="1238" height="130" key="GridCell.Tab.0.left" timestamp="1585768973681">
-      <screen x="0" y="23" width="1920" height="986" />
+    <state width="1238" height="148" key="GridCell.Tab.0.left" timestamp="1586729224028">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586729224028" />
     <state width="1238" height="130" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1585681020363" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1586624482789" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1586712627548" />
     <state width="1238" height="130" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1585768973681" />
-    <state width="1238" height="130" key="GridCell.Tab.0.right" timestamp="1585768973682">
-      <screen x="0" y="23" width="1920" height="986" />
+    <state width="1238" height="148" key="GridCell.Tab.0.right" timestamp="1586729224030">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="148" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586729224030" />
     <state width="1238" height="130" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1585681020364" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1586624482793" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1586712627550" />
     <state width="1238" height="130" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1585768973682" />
+    <state width="1238" height="198" key="GridCell.Tab.1.bottom" timestamp="1586729224020">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586729224020" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.23.1280.727@0.23.1280.727" timestamp="1586712627198" />
+    <state width="1238" height="198" key="GridCell.Tab.1.center" timestamp="1586729224018">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1586729224018" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.23.1280.727@0.23.1280.727" timestamp="1586712627197" />
+    <state width="1238" height="198" key="GridCell.Tab.1.left" timestamp="1586729224017">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1586729224017" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.23.1280.727@0.23.1280.727" timestamp="1586712627195" />
+    <state width="1238" height="198" key="GridCell.Tab.1.right" timestamp="1586729224019">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="198" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1586729224019" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.23.1280.727@0.23.1280.727" timestamp="1586712627198" />
     <state x="107" y="23" key="SettingsEditor" timestamp="1585679781931">
       <screen x="0" y="23" width="1280" height="723" />
     </state>
@@ -110,6 +199,10 @@
       <screen x="0" y="23" width="1280" height="723" />
     </state>
     <state x="294" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.723@0.23.1280.723" timestamp="1585679860273" />
+    <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586276612833">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1586276612833" />
     <state x="305" y="172" key="run.anything.popup" timestamp="1585681527065">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
